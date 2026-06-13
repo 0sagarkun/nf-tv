@@ -1,5 +1,0 @@
-pyrofork
-tgcrypto
-requests
-motor
-pymongo
