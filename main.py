@@ -13,7 +13,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 from pyrogram.enums import ParseMode
 from pyrogram.errors import MessageNotModified, FloodWait, MessageDeleteForbidden, UserNotParticipant, UsernameNotOccupied, ChatAdminRequired, UserIsBlocked, PeerIdInvalid, InputUserDeactivated
 import logging
-from config import API_ID, API_HASH, BOT_TOKEN, ADMINS, MAX_THREADS, MONGO_URI, DB_NAME, FORCE_SUB_CHANNEL, FORCE_SUB_TEXT, LOG_CHANNEL, PICS
+from config import API_ID, API_HASH, BOT_TOKEN, ADMINS, MAX_THREADS, MONGO_URI, FORCE_SUB_CHANNEL, FORCE_SUB_TEXT, LOG_CHANNEL, PICS
 from code import translate_country_code
 import time
 import traceback
