@@ -57,8 +57,7 @@ BOT_TOKEN = "8959624043:AAHRpzWRT0-O0ix07641vg8eIs_X-Qp0f0U"
 ADMINS = [8033719088]
 
 # MongoDB configuration
-MONGO_URI= "mongodb://sagar:<db_password>@ac-mqottjp-shard-00-00.v3xjwdm.mongodb.net:27017,ac-mqottjp-shard-00-01.v3xjwdm.mongodb.net:27017,ac-mqottjp-shard-00-02.v3xjwdm.mongodb.net:27017/?ssl=true&replicaSet=atlas-fptgqm-shard-0&authSource=admin&appName=Cluster0"
-DB_NAME= "netflixtvbot"
+MONGO_URI= "mongodb+srv://sagar:<sagarkun>@cluster0.v3xjwdm.mongodb.net/?appName=Cluster0"
 
 # Thread configuration
 MAX_THREADS=50
