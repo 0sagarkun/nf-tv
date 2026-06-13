@@ -47,7 +47,7 @@ PICS = (
 
 
 
-DB_NAME= "cluster0"
+DB_NAME = "cluster0"
 # Telegram API credentials
 API_ID = 36055189
 API_HASH = "c202ec65de782b339e9305010cd4af9d"
