@@ -47,11 +47,11 @@ PICS = (
 
 
 
-
+DB_NAME= cluster0
 # Telegram API credentials
 API_ID = 36055189
 API_HASH = "c202ec65de782b339e9305010cd4af9d"
-BOT_TOKEN = "8959624043:AAHRpzWRT0-O0ix07641vg8eIs_X-Qp0f0U"
+BOT_TOKEN = "8959624043:AAGXCpHpKb2brDfy8LqBaM2UvLMKwgUPK34"
 
 # Admin IDs (comma separated)
 ADMINS = [8033719088]
